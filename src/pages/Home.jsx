@@ -366,11 +366,11 @@ export default function Home() {
             <Reveal>
               <h2 className="section-title" style={{ marginBottom: "24px" }}>
                 Built by high-school students<br />
-                <em><span className="grad-text">at Lake Mary High School.</span></em>
+                <em><span className="grad-text">in Florida.</span></em>
               </h2>
               <p className="sans" style={{ color: "var(--muted)", lineHeight: 1.8, marginBottom: "20px", fontSize: "15px" }}>
-                BioNorth is the work of a team of high-school students at Lake Mary High School in Florida —
-                though it started as a capstone project at Markham Woods Elementary. We came together to build it
+                BioNorth is the work of a team of high-school students at in Florida —
+                though it started as a capstone project at. We came together to build it
                 from the ground up — researching the neuroscience, wiring the hardware, and writing the detection
                 algorithm in our own time.
               </p>
