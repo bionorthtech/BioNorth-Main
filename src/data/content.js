@@ -25,7 +25,7 @@ export const TRUENORTH_PRODUCT = {
 
 export const TEAM_MEMBERS = [
   {
-    name: "Dario M",
+    name: "BioNorth Team",
     role: "Founder, BioTech, Inc.",
     website: "https://bionorth.us/",
     location: "Lake Mary, FL 32746",
@@ -36,7 +36,7 @@ export const TEAM_MEMBERS = [
 export const CONTACT_SECTIONS = [
   {
     category: "General Inquiries",
-    name: "Dario M",
+    name: "BioNorth Team",
     role: "Founder, BioTech, Inc.",
     website: "https://bionorth.us/",
     location: "Lake Mary, FL 32746",
@@ -78,7 +78,7 @@ export const HOW_IT_WORKS = [
   {
     step: "01",
     title: "Neural Intent Detected",
-    body: "EEG electrodes at Cz, FCz, and Fz monitor motor cortex activity. When the patient intends to walk, mu and beta frequency bands desynchronize — a measurable neural signature of movement intent.",
+    body: "EEG electrodes at Cz, FCz, and Fz monitor motor cortex activity. When the patient intends to walk, mu and beta frequency bands desynchronize — a measurable neural signature of movement.",
     icon: "🧠",
   },
   {
@@ -310,7 +310,7 @@ export const FUNDING_TARGETS = [
 export const FOOTER_LEGAL = {
   entity: "BioNorth Tech. LLC",
   notice:
-    "All biomedical device designs, hardware, firmware, software, detection algorithms, and related intellectual property described on this site are the exclusive property of BioNorth Tech. LLC. All rights reserved.",
+    "All biomedical device designs, hardware, firmware, software, detection algorithms, and related intellectual property described on this site are the exclusive property of BioNorth Tech. LLC.",
   prohibition:
     "Unauthorized copying, reproduction, distribution, reverse engineering, or commercial use of any BioNorth biomedical device technology is strictly prohibited.",
   disclaimer:
