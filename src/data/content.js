@@ -272,7 +272,6 @@ export const CURRENT_HARDWARE = [
 ];
 
 export const TEAM_HIGHLIGHTS = [
-  { label: "Where it started", detail: "A capstone project at Markham Woods Elementary that grew into a team at Lake Mary High School, Florida." },
   { label: "Patent in progress", detail: "Filing a provisional patent on the movement-failure detection method." },
   { label: "Forming an LLC", detail: "Standing up the legal entity to take the work forward." },
   { label: "National Innovator Challenge", detail: "Winner — University of San Diego Camp, 2025." },
