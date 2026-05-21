@@ -1,7 +1,9 @@
 # BioNorth Website
 
-🌐 **Live site:** https://bionorthtech.github.io/Our-Website/
+🌐 **Live site:** https://bionorthtech.github.io/BioNorth-Main/
+
 ✉️ **Contact:** biotech@bionorth.us
+
 🏷️ **Status:** Phase 0 — Prototype Stabilization · Patent pending · LLC forming
 
 ---
