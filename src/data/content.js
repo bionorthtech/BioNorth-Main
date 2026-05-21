@@ -39,7 +39,7 @@ export const CONTACT_SECTIONS = [
     name: "BioNorth Team",
     role: "Founder, BioTech, Inc.",
     website: "https://bionorth.us/",
-    location: "Lake Mary, FL 32746",
+    location: "FL",
     email: "biotech@bionorth.us",
     color: "#00D4FF",
   },
