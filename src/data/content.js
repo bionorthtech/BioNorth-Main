@@ -353,3 +353,39 @@ export const AIMETR_BLE = [
   { label: "Service UUID", value: "4fafc201-1fb5-459e-8fcc-c5c9c331914b" },
   { label: "Characteristic UUID", value: "beb5483e-36e1-4688-b7f5-ea07361b26a8" },
 ];
+
+// ---------------------------------------------------------------------------
+// SyndromeAI — side project
+// ---------------------------------------------------------------------------
+
+export const SYNDROMEAI_FEATURES = [
+  { title: "Project Management", desc: "Organize and switch between Claude Code projects from a unified desktop interface." },
+  { title: "Custom Agents", desc: "Create, configure, and deploy custom Claude agents tailored to your workflows." },
+  { title: "Model Switching", desc: "Seamlessly toggle between cloud (Claude) and local LLMs without leaving your editor." },
+  { title: "Usage Analytics", desc: "Track token usage, session history, and cost across models and projects." },
+  { title: "SQLite Storage", desc: "All project state and agent configs stored locally in SQLite — no cloud dependency." },
+  { title: "Open Source", desc: "Apache 2.0 licensed. Built with Tauri 2, React 18, TypeScript, and Rust." },
+];
+
+// ---------------------------------------------------------------------------
+// JarvisAI — side project
+// ---------------------------------------------------------------------------
+
+export const JARVISAI_FEATURES = [
+  { title: "Fully Local", desc: "Runs entirely on your machine via LM Studio — no data leaves your device." },
+  { title: "Knowledge Vault", desc: "Obsidian-compatible semantic search vault indexes your notes and docs for RAG." },
+  { title: "System Telemetry", desc: "Real-time CPU, GPU, RAM, and process dashboard built into the assistant." },
+  { title: "Streaming Chat", desc: "Live tool-call visibility as the agent reasons and executes tasks." },
+  { title: "Autonomy Tiers", desc: "Four-tier autonomy system with safety guardrails and complete audit trails." },
+  { title: "Open Source", desc: "Apache 2.0 licensed. Built with Python 3.11+, FastAPI, Tauri, and React." },
+];
+
+// ---------------------------------------------------------------------------
+// Maths — side project
+// ---------------------------------------------------------------------------
+
+export const MATHS_FEATURES = [
+  { title: "Erdős Conjecture", desc: "Original research on Erdős number theory problems — formal proofs written in LaTeX." },
+  { title: "Reproducible", desc: "Full LaTeX source included; compile the PDF yourself or read it directly on GitHub." },
+  { title: "Open Research", desc: "Apache 2.0 licensed. Part of BioNorth's commitment to open science." },
+];

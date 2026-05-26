@@ -108,7 +108,21 @@ Things we build between milestones:
 - **[AiMetr](https://github.com/bionorthtech/AiMetr)** — a multi-provider AI usage
   monitor with a real-time dashboard, a desktop-pet overlay, and an optional ESP32-S3
   AMOLED hardware companion. Tracks rate limits, tokens, and cost across Claude,
-  OpenAI/Codex, DeepSeek, Ollama, and LM Studio. MIT licensed.
+  OpenAI/Codex, DeepSeek, Ollama, and LM Studio. Apache 2.0 licensed.
+
+- **[SyndromeAI](https://github.com/bionorthtech/SyndromeAI)** — a Tauri 2 desktop app
+  that enhances Claude Code with project management, custom agent creation, local LLM
+  switching, and usage analytics. Built with React 18, TypeScript, Rust, and SQLite.
+  Apache 2.0 licensed.
+
+- **[JarvisAI](https://github.com/bionorthtech/JarvisAI)** — a fully local, privacy-first
+  AI assistant running entirely on your machine via LM Studio. Features streaming chat
+  with live tool-call visibility, an Obsidian-compatible semantic knowledge vault,
+  real-time system telemetry, and a four-tier autonomy system with complete audit trails.
+  Apache 2.0 licensed.
+
+- **[Maths](https://github.com/bionorthtech/Maths)** — original number theory research on
+  the Erdős conjecture, written in LaTeX with a compiled PDF. Apache 2.0 licensed.
 
 More are on the way — watch the [organization](https://github.com/bionorthtech) to catch them first.
 
@@ -162,7 +176,7 @@ src/
 ├── App.jsx             # routes + shared layout
 ├── theme.css           # design tokens, layout utilities, responsive rules
 ├── components/         # Nav, Footer, EEGWave, Reveal
-├── pages/              # Home (the mission), SideProjects (AiMetr)
+├── pages/              # Home (the mission), SideProjects (AiMetr, SyndromeAI, JarvisAI, Maths)
 └── data/content.js     # site content constants
 ```
 
